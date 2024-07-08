@@ -10,7 +10,7 @@ Program ini juga dibuat sebagai tugas uas.
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-[Video Youtube]((https://youtu.be/AxvKSpMY8FU?si=IOEgCxg2rKsQ-4I2))
+[Video Youtube (https://youtu.be/AxvKSpMY8FU?si=IOEgCxg2rKsQ-4I2)
 
 ### Berikut link repository github :
 
